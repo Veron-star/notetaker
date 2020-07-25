@@ -8,6 +8,10 @@ module.exports = app => {
 
 // API Routes
         app.get("/api/notes", function(req, res) {
+            res.json(notes);
+        });
+
+        app.get("/api/notes", function(req, res) {
             let newNote = req.body;
             notes.push(newNote);
             updateDb();
