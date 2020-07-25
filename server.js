@@ -68,7 +68,7 @@ app.listen(PORT, function() {
 
 
 app.use(express.static("public"));
-app.use("/api", apiRoutes);
-app.use("/html", htmlRoutes);
+// app.use("/api", apiRoutes);
+// app.use("/html", htmlRoutes);
 
 app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
