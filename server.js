@@ -10,7 +10,7 @@ app.use(express.static(__dirname));
 
 require("./routes/routes")(app);
 
-app.listening(PORT, function() {
+app.listen(PORT, function() {
     console.log("App listening on PORT: " + PORT);
 });
 
