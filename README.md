@@ -12,7 +12,8 @@ Create an application that can be used to write, save, and delete notes. This ap
 - Heroku
 
 ## Contributor: 
-[GitHub Profile](https://github.com/Veron-star)
+[GitHub Profile](https://github.com/Veron-star/notetaker)
 
 ## Heroku:
-[Deployed Link] ()
+[Deployed Link] (https://notetaker-veronstar.herokuapp.com/)
+
