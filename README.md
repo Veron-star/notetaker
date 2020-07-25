@@ -17,4 +17,4 @@ GitHub Profile: https://github.com/Veron-star/notetaker
 ## Heroku:
 Deployed Link: https://notetaker-veronstar.herokuapp.com/
 
-![](/88458127-5269e080-cebe-11ea-9cc6-df635920b548.PNG)
+![](/screenshot.PNG)
